@@ -1,5 +1,7 @@
 # PCORnet Diagnostic Query Package
 
+### Version v3.0.1
+
 ### Purpose
 This code package evaluates a DataMart's conformance to the PCORnet Common Data Model (CDM) v3.0 SAS table structure, variable names, variable lengths, and data types.  
 
