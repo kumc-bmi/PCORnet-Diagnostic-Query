@@ -3,7 +3,7 @@
 ### Purpose
 This code package evaluates a DataMart's conformance to the PCORnet Common Data Model (CDM) v3.0 SAS table structure, variable names, variable lengths, and data types.  
 
-The Diagnostic Query Package is a compliment to the [Data Characterization Query Package] (https://github.com/PCORnet-DRN-OC/PCORnet-Data-Characterization). The Diagnostic Query is run **first**, prior to Data Characterization.
+The Diagnostic Query Package is a complement to the [Data Characterization Query Package] (https://github.com/PCORnet-DRN-OC/PCORnet-Data-Characterization). The Diagnostic Query is run **first**, prior to Data Characterization.
 
 ### PCORnet data partners run code packages distributed through PopMedNet
 It's crucially important for data partners to follow the process of running the exact code module distributed to your DataMart by the Operations Center (via PopMedNet). This process ensures that end-to-end provenance is preserved. Complete instructions on how to run this code are provided to PCORnet DataMarts when the query is distributed to a given DataMart. 
